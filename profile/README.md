@@ -1,3 +1,5 @@
+<img src="prombot-ai-logo.png" alt="prombot-ai logo" width="300"/>
+
 # 🤖 prombot-ai
 
 **prombot-ai** is an open-source organization building next-generation AI-powered robotic systems. We design robots that understand natural language, reason about their environment, and take physical action in the real world — powered by the **OpenClaw agent**.
