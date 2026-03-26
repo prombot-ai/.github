@@ -1,4 +1,4 @@
-<img src="prombot-ai-logo.png" alt="prombot-ai logo" width="300"/>
+<p align="center"><img src="prombot-ai-logo.png" alt="prombot-ai logo" width="300"/></p>
 
 # 🤖 prombot-ai
 
