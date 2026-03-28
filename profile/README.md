@@ -27,5 +27,3 @@ We welcome contributions from roboticists, AI researchers, and software engineer
 - ⭐ Explore our repositories
 - 🐛 Open or comment on issues
 - 💬 Join the discussion and help shape the future of open AI robotics
-
-Licensed under the [Apache 2.0 License](../LICENSE).
